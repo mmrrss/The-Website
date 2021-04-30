@@ -1,0 +1,60 @@
+<DOCTYPE html>
+<html lang="en">
+  <head>
+    <link rel="stylesheet" type="text/css" href="inicio.css" />
+    <title>My-Web</title>
+	  <style>
+		      body {
+			      background-color: green;
+			  }
+			  h1 {
+			     color: black;
+			  }
+			  p {
+			    color: white;
+			  }
+		 </style>
+  </head>
+  <body>
+  <div id="title">
+    <h1>My-Web</h1>	
+  </div>
+  <div id="navegacion">
+    <div class="menu"><a href="index.html">Inicio</a></div>
+    <div class="menu"><a href="Accessibility-Standars.html">Listas</a></div>
+    <div class="menu"><a href="Internet-Security.html">Tablas</a></div>
+    <div class="menu"><a href="Object-oriented-vs-structured-programming.html">Formulario</a></div> 
+		<div class="vacio"></div>
+ </div>
+  <div id="texto">
+    <p>Hello, welcome to this website where we will talk about programming and more.</p>
+  </div>
+  <div id="Links">
+   <h2><strong>Cliking this link you can Know more about Accessibility Standars:</strong</h2>
+    <p><a href="https://github.com/mmrrss/The-Website/blob/cd059f33e90f46da3937fe5e933cb357174f1acd/Accessibility-Standars.html" target="Accessibility-Standars.html">
+    </a></p>
+   <h2><strong>Cliking this link you can Know more about Internet Security:</strong</h2>
+    <p><a href="https://github.com/mmrrss/The-Website/blob/cd059f33e90f46da3937fe5e933cb357174f1acd/Internet-Security.html" target="Internet-Security.html"></a></p>
+   <h2><strong>Cliking this link you can Know more about Accessibility Standars:</strong</h2>
+    <p><a href="https://github.com/mmrrss/The-Website/blob/cd059f33e90f46da3937fe5e933cb357174f1acd/Object-oriented-vs-structured-programming.html"  target="Object-oriented-vs-structured-programming.html">
+    </a></p>
+  </div>
+  <div id="pie">
+    <div class="col_pie">
+      <h4>For more information</h4>
+      <p>Owned by: María Silvestre</p>
+      <p>Webmaster: María Silvestre</p>
+    </div>
+    <div class="col_pie">
+      <h4>Contact us</h4>
+      <p>Email : ieslaflota@gmail.com</p>
+      <p>Phone: 600 000 000 </p>
+    </div>
+    <div class="location">
+      <h4>Where you can find us</h4>
+	  <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3144.1588769901487!2d-1.1227107000000458!3d37.99675450000001!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0xd63823dc8313c85%3A0xe767e46003a0fa0f!2sIES%20La%20Flota!5e0!3m2!1ses!2ses!4v1619742339320!5m2!1ses!2ses" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
+    </div>
+    <div class="vacio"></div>
+  </div>
+  </body>
+</html>
